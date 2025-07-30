@@ -1,1 +1,1 @@
-https://github.com/V1ados1k/ono-tebe-nado-fd
+git@github.com:V1ados1k/ono-tebe-nado-fd.git
