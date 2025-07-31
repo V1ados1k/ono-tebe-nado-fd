@@ -112,7 +112,7 @@ header .address {
   display: flex;
   position: relative;
   z-index: 2;
-  padding-top: 117px;
+  padding-top: 106px;
   justify-content: space-between;
 }
 
@@ -122,6 +122,7 @@ header .address {
   line-height: 31px;
   text-transform: uppercase;
   word-spacing: 19px;
+  margin-top: 11px;
 }
 
 .letter-spacing-extended {
@@ -133,7 +134,6 @@ header .address {
   padding: 12px 32px 11px 31px;
   justify-content: space-evenly;
   margin-right: 30px;
-  margin-top: -11px;
   background-color: transparent;
   color: #fff;
   border: 1px solid;
@@ -163,6 +163,7 @@ header .address {
 
 .lots__card-list {
   display: flex;
+  flex-wrap: wrap;
   gap: 1px;
 }
 
